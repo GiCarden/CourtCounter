@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">CourtCounter</string>
+
+    <string name="home_team">Home Team</string>
+    
+    <string name="away_team">Away Team</string>
+    
+    <string name="initial_score_value">0</string>
+
+    <string name="free_throw">Free Throw</string>
+    <string name="two_points">+2 Points</string>
+    <string name="three_points">+3 Points</string>
+    <string name="deduct">Deduct</string>
+
+    <string name="reset">Reset</string>
+
+    <string name="deduct_from_zero">Unable to deduce from zero</string>
+
+</resources>
